@@ -1,0 +1,11 @@
+td{
+    text-align:left;
+    font-weight:900;
+}
+table{
+    width:100%;
+}
+body{
+    background-image: url("images/IMG_20200822_125740.jpg");
+    width: device-width;
+}
